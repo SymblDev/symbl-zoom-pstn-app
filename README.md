@@ -106,11 +106,11 @@ This guide is actively developed, and we love to hear from you! Please feel free
 
 This library is released under the [MIT License][license]
 
-[license]: LICENSE.txt
+[license]: LICENSE
 [telephony]: https://docs.symbl.ai/docs/telephony/overview/post-api
 [websocket]: https://docs.symbl.ai/docs/streamingapi/overview/introduction
 [developer_community]: https://community.symbl.ai/?_ga=2.134156042.526040298.1609788827-1505817196.1609788827
 [signup]: https://platform.symbl.ai/?_ga=2.63499307.526040298.1609788827-1505817196.1609788827
-[issues]: https://github.com/symblai/symbl-for-zoom/issues
-[pulls]: https://github.com/symblai/symbl-for-zoom/pulls
+[issues]: https://github.com/SymblDev/symbl-zoom-pstn-app/issues
+[pulls]: https://github.com/SymblDev/symbl-zoom-pstn-app/pulls
 [slack]: https://join.slack.com/t/symbldotai/shared_invite/zt-4sic2s11-D3x496pll8UHSJ89cm78CA
